@@ -1,4 +1,4 @@
-#  -----   Checar e reparar erros em banco de dados SQL  -----   #  
+#  ------   Checar e reparar erros em banco de dados SQL  ------   #  
 #
 # Checar os erros da base e retornar todos os erros
 #
