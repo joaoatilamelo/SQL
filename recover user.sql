@@ -6,7 +6,7 @@
 
 
 
-USE vetorh
+USE master   #troque pelo banco que contém os usuários #
 GO
 IF OBJECT_ID ('sp_hexadecimal') IS NOT NULL
   DROP PROCEDURE sp_hexadecimal
